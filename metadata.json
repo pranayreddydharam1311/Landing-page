@@ -1,0 +1,6 @@
+{
+  "name": "OptiLaunch AI — Campaign Landing Page Engine",
+  "description": "AI system that generates, tests, and optimizes high-converting landing pages for marketing campaigns, AI & Data Science bootcamps, and product launches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
